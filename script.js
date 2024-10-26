@@ -79,7 +79,120 @@ let songs=[
         image:"img1.jpg",
         singer:"សូមអរគុណសម្រាប់ការចូលស្តាប់"
     },
-    
+    {
+        name:"12.REMIX 2024" , 
+        path:"12.mp3",
+        image:"img1.jpg",
+        singer:"សូមអរគុណសម្រាប់ការចូលស្តាប់"
+    },
+    {
+        name:"13.REMIX 2024" , 
+        path:"13.mp3",
+        image:"img1.jpg",
+        singer:"សូមអរគុណសម្រាប់ការចូលស្តាប់"
+    },
+    {
+        name:"14.REMIX 2024" , 
+        path:"14.mp3",
+        image:"img1.jpg",
+        singer:"សូមអរគុណសម្រាប់ការចូលស្តាប់"
+    },
+    {
+        name:"15.REMIX 2024" , 
+        path:"15.mp3",
+        image:"img1.jpg",
+        singer:"សូមអរគុណសម្រាប់ការចូលស្តាប់"
+    },
+    {
+        name:"16.REMIX 2024" , 
+        path:"16.mp3",
+        image:"img1.jpg",
+        singer:"សូមអរគុណសម្រាប់ការចូលស្តាប់"
+    },
+    {
+        name:"17.REMIX 2024" , 
+        path:"17.mp3",
+        image:"img1.jpg",
+        singer:"សូមអរគុណសម្រាប់ការចូលស្តាប់"
+    },
+    {
+        name:"18.REMIX 2024" , 
+        path:"18.mp3",
+        image:"img1.jpg",
+        singer:"សូមអរគុណសម្រាប់ការចូលស្តាប់"
+    },
+    {
+        name:"19.REMIX 2024" , 
+        path:"19.mp3",
+        image:"img1.jpg",
+        singer:"សូមអរគុណសម្រាប់ការចូលស្តាប់"
+    },
+    {
+        name:"20.REMIX 2024" , 
+        path:"20.mp3",
+        image:"img1.jpg",
+        singer:"សូមអរគុណសម្រាប់ការចូលស្តាប់"
+    },
+    {
+        name:"21.REMIX 2024" , 
+        path:"21.mp3",
+        image:"img1.jpg",
+        singer:"សូមអរគុណសម្រាប់ការចូលស្តាប់"
+    },
+    {
+        name:"22.REMIX 2024" , 
+        path:"22.mp3",
+        image:"img1.jpg",
+        singer:"សូមអរគុណសម្រាប់ការចូលស្តាប់"
+    },
+    {
+        name:"23.REMIX 2024" , 
+        path:"23.mp3",
+        image:"img1.jpg",
+        singer:"សូមអរគុណសម្រាប់ការចូលស្តាប់"
+    },
+    {
+        name:"24.REMIX 2024" , 
+        path:"24.mp3",
+        image:"img1.jpg",
+        singer:"សូមអរគុណសម្រាប់ការចូលស្តាប់"
+    },
+    {
+        name:"25.REMIX 2024" , 
+        path:"25.mp3",
+        image:"img1.jpg",
+        singer:"សូមអរគុណសម្រាប់ការចូលស្តាប់"
+    },
+    {
+        name:"26.REMIX 2024" , 
+        path:"26.mp3",
+        image:"img1.jpg",
+        singer:"សូមអរគុណសម្រាប់ការចូលស្តាប់"
+    },
+    {
+        name:"27.REMIX 2024" , 
+        path:"27.mp3",
+        image:"img1.jpg",
+        singer:"សូមអរគុណសម្រាប់ការចូលស្តាប់"
+    },
+    {
+        name:"28.REMIX 2024" , 
+        path:"28.mp3",
+        image:"img1.jpg",
+        singer:"សូមអរគុណសម្រាប់ការចូលស្តាប់"
+    },
+    {
+        name:"29.REMIX 2024" , 
+        path:"29.mp3",
+        image:"img1.jpg",
+        singer:"សូមអរគុណសម្រាប់ការចូលស្តាប់"
+    },
+    {
+        name:"30.REMIX 2024" , 
+        path:"30.mp3",
+        image:"img1.jpg",
+        singer:"សូមអរគុណសម្រាប់ការចូលស្តាប់"
+    },
 ]
 function loadTrack(index){
 track.src=songs[index].path;
